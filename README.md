@@ -12,3 +12,11 @@ A single string containing a time in 12-hour clock format (i.e.: hh:mm:ssAM or h
 
 Convert and print the given time in 24-hour format, where 00 <= hh <= 23.
 
+## Sample Input
+
+07:05:45PM
+
+## Sample Output
+
+19:05:45
+
